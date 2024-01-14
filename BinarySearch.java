@@ -1,6 +1,6 @@
 
 /** A Java implementation of binary search. */
-public class Main {
+public class BinarySearch {
 
   /**
    * Run binary search on a given integer list.
