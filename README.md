@@ -12,3 +12,7 @@ I will try to implement all the ideas / pseudo code I find.
   * [in Python](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/binary_search.py)
   * [in C](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/binary_search.c)
   * [in Java](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/Main.java)
+* Selection Sort (Grokking Algorithms Chapter 2)
+  * [in Python]
+  * [in C]
+  * [in Java] 
