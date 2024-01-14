@@ -8,4 +8,7 @@ I will try to implement all the ideas / pseudo code I find.
 ## Data Structures
 
 ## Algorithms
-
+* Binary Search (Grokking Algorithms Chapter 1)
+  * [in Python](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/binary_search.py)
+  * [in C](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/binary_search.c)
+  * [in Java]
