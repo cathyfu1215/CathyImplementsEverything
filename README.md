@@ -1,5 +1,8 @@
 # CathyImplementsEverything
-This is inspired by the famous Feynman quote "If I cannot create it, I do not understand it".
+This is inspired by the famous Feynman quote 
+
+**"If I cannot create it, I do not understand it."**
+
 <br>
 I will try to implement all the ideas / pseudo code I find.
 
@@ -20,4 +23,4 @@ I will try to implement all the ideas / pseudo code I find.
 * Bubble Sort
   * [in Python](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/bubble_sort.py)
   * [in C](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/bubble_sort.c)
-  * [in Java]
+  * [in Java](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/BubbleSort.java)
