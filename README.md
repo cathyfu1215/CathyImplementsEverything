@@ -26,3 +26,4 @@ I will try to implement all the ideas / pseudo code I find.
   * [in Java](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/BubbleSort.java)
 * Insertion Sort
   * [in Python](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/insertion_sort.py)
+  * [in C](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/insertion_sort.c)
