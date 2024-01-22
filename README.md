@@ -18,9 +18,11 @@ I will try to implement all the ideas / pseudo code I find.
   * [in Java](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/BinarySearch.java)
 * Selection Sort (Grokking Algorithms Chapter 2)
   * [in Python](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/selection_sort.py)
-  * [in C](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/selection_sort.c)
+  * [in C](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/selection_sort.c) (could have better solutions)
   * [in Java](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/SelectionSort.java)
 * Bubble Sort
   * [in Python](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/bubble_sort.py)
   * [in C](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/bubble_sort.c)
   * [in Java](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/BubbleSort.java)
+* Insertion Sort
+  * [in Python](https://github.com/cathyfu1215/CathyImplementsEverything/blob/main/insertion_sort.py)
